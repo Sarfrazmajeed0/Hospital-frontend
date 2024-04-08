@@ -7,7 +7,7 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
             <ul class="navbar-nav" id="header-navbar">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -22,7 +22,7 @@
                     <a class="nav-link" href="#">Organization structure</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Departments</a>
+                    <a class="nav-link" href="department.php">Departments</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -35,23 +35,23 @@
                     </ul>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Achievements</a>
+                    <a class="nav-link" href="achievement.php">Achievements</a>
                 </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="#">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Tenders</a>
+                    <a class="nav-link" href="tender.php">Tenders</a>
                 </li>
 
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Feedback</a>
+                    <a class="nav-link" href="feedback.php">Feedback</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="contactus.php">Contact Us</a>
                 </li>
 
             </ul>
