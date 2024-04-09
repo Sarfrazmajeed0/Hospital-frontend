@@ -43,7 +43,7 @@
     <div class="container-fluid g-0">
         <div class="d-none d-lg-block d-md-block">
         <div class="row">
-            <div class="col-md-3 col-lg-3 col-sm-3 text-right">
+            <div class="col-md-4 col-lg-3 col-sm-3 text-right">
                 <h6 class="mt-3 px-3">Monday, March 18, 2024 12:45:00</h6>
             </div>
 <!--            <div class="col-md-2 col-lg-2 col-sm-2 "></div>-->

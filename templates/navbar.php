@@ -29,7 +29,7 @@
                         Academics
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">DNB</a></li>
+                        <li><a class="dropdown-item" href="">DNB</a></li>
                         <li><a class="dropdown-item" href="#">Bridge Course</a></li>
                         <li><a class="dropdown-item" href="#">PG Courses</a></li>
                     </ul>

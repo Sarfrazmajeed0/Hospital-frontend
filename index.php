@@ -9,6 +9,10 @@ require_once("templates/logoheader.php")
 require_once("templates/carousal.php")
 ?>
 
-<!-- <?php
+<?php
+require_once ("Tabs.php")
+?> 
+
+<?php
 require_once("templates/footer.php")
-?> -->
+?>
